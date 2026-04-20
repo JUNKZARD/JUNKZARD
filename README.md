@@ -1,6 +1,4 @@
-## Hi there 👋 i'm Gungdepandu
-
-![progamer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U1Z3Q4cWV5bTJiOWVpYmM0cjJ2bjZvY3pkNTc5MGdzMzB2aGJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+## Hi there 👋
 
 <!--
 **JUNKZARD/JUNKZARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
